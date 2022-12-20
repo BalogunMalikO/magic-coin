@@ -1,0 +1,11 @@
+#V2
+clarinet check
+clarinet test
+::get_assets_maps
+;;help
+::help
+::gets_assets_maps
+:: gets_assets_maps
+;; gets_assests_maps
+clarinet start
+(contract-call? .magic-coin mint u5000 tx-sender)
